@@ -1,0 +1,11 @@
+{
+  "alphabet": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/",
+  "padding": "=",
+  "groups": {
+    "uppercase": "ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "lowercase": "abcdefghijklmnopqrstuvwxyz",
+    "digits": "0123456789",
+    "symbols": "+/"
+  },
+  "commonSequences": ["SGVsbG8", "IA==", "4oKs"]
+}

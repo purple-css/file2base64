@@ -1,0 +1,10 @@
+{
+  "name":"File to Base64",
+  "short_name":"Base64",
+  "description":"Convert files and text to Base64 directly in your browser.",
+  "start_url":"./",
+  "display":"standalone",
+  "theme_color":"#f5f7fb",
+  "background_color":"#f5f7fb",
+  "icons":[{"src":"src/favicon-128.svg","sizes":"128x128","type":"image/svg+xml"},{"src":"src/favicon-512.svg","sizes":"512x512","type":"image/svg+xml"}]
+}
